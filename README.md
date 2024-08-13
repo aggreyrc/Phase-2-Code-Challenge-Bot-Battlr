@@ -13,7 +13,7 @@ The user is able to:
 
 1. See profiles of all bots rendered in `BotCollection`.
 
-2. Add an individual bot to their army by clicking on it. The selected bot renders in the `YourBotArmy` component. The bot can be enlisted only **once**.
+2. Add an individual bot to their army by clicking on it. The selected bot renders in the `YourBotArmy` component. **YourBotArmy** renders at the bottom of the page. The bot can be enlisted only **once**.
 The bot **does not** disappear from the `BotCollection`.
 
 3. Release a bot from their army by clicking on it. The bot disappears from the `YourBotArmy` component.
