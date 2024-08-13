@@ -20,7 +20,7 @@ The bot **does not** disappear from the `BotCollection`.
 
 4. Discharge a bot from their service forever, by clicking the red button marked "x", which would delete the bot both from the backend and from the `YourBotArmy` on the frontend.
 
-The hosted url is: 
+The hosted url is: https://phase-2-code-challenge-bot-battlr-git-2d848e-aggreyrcs-projects.vercel.app/
 
 
 
